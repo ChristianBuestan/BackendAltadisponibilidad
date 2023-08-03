@@ -1,0 +1,7 @@
+ups\edu\ec\prueba2023Buestan\Jsf23Activator.class
+ups\edu\ec\prueba2023Buestan\dao\LibroDao.class
+ups\edu\ec\prueba2023Buestan\services\JAXActivator.class
+ups\edu\ec\prueba2023Buestan\model\Libro.class
+ups\edu\ec\prueba2023Buestan\services\LibroServices.class
+ups\edu\ec\prueba2023Buestan\Domeinicio.class
+ups\edu\ec\prueba2023Buestan\services\CORSFilter.class

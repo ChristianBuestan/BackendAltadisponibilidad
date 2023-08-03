@@ -1,0 +1,61 @@
+Breloom @ Focus Sash  
+Ability: Effect Spore  
+Tera Type: Grass  
+EVs: 24 HP / 252 Atk / 216 Def / 16 Spe  
+Adamant Nature  
+- Mach Punch  
+- Seed Bomb  
+- Spore  
+- Drain Punch  
+
+Donphan @ Soft Sand  
+Ability: Sturdy  
+Tera Type: Ground  
+EVs: 52 HP / 252 Atk / 204 Def  
+Relaxed Nature  
+- Counter  
+- Earthquake  
+- Gunk Shot  
+- Ice Fang  
+
+Magnezone @ Magnet  
+Ability: Analytic  
+Tera Type: Electric  
+EVs: 252 HP / 4 Def / 252 SpD  
+Rash Nature  
+IVs: 0 Atk  
+- Discharge  
+- Flash Cannon  
+- Thunder Wave  
+- Volt Switch  
+
+Buizel @ Never-Melt Ice  
+Ability: Water Veil  
+Tera Type: Water  
+EVs: 20 Atk / 252 Def / 236 SpD  
+Lax Nature  
+- Aqua Jet  
+- Aqua Tail  
+- Ice Punch  
+- Brick Break  
+
+Gengar @ Iapapa Berry  
+Ability: Cursed Body  
+Tera Type: Ghost  
+EVs: 228 HP / 252 SpA / 28 SpD  
+IVs: 0 Atk  
+- Dazzling Gleam  
+- Clear Smog  
+- Dark Pulse  
+- Hex  
+
+Honchkrow @ Black Glasses  
+Ability: Insomnia  
+Tera Type: Dark  
+EVs: 24 HP / 180 Atk / 20 Def / 252 SpA / 32 SpD  
+IVs: 0 Atk  
+- Rest  
+- Dark Pulse  
+- Chilling Water  
+- Night Shade  
+
